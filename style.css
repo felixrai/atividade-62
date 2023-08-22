@@ -1,0 +1,19 @@
+* {
+  list-style: none;
+   
+}
+img {
+
+ height: 100px;
+ width: 100px;
+
+}
+selection {
+  display:flex;
+  min-height: 100vh;
+  
+}
+
+header {
+  left: 90%;
+}

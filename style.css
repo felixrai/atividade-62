@@ -43,8 +43,3 @@ input {
     width: 320px;
 }
 
-.baixo {
-    display: flex;
-    bottom:0%;
-    gap: 20px;
-}

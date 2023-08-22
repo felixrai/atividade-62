@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section header {
+    position: absolute;
+    top:0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+section header ul {
+    display: flex;
+    gap: 20px;
+}
+
+.cima {
+    right: 90%;
+}
+
+img {
+    height: 100px;
+    width: 300px;
+    align-items: center;
+}
+    
+input {
+    text-align: center;
+    height: 30px;
+    width: 320px;
+}
+
+.baixo {
+    display: flex;
+    bottom:0%;
+    gap: 20px;
+}
